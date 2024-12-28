@@ -1,0 +1,5 @@
+.env
+.turbo
+.vscode
+.next
+node_modules
