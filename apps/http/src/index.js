@@ -13,3 +13,4 @@ app.use(cors());
 app.use("/api", apiRouter);
 
 app.listen(process.env.PORT);
+console.log("listning on ", process.env.PORT);
